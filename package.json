@@ -1,0 +1,33 @@
+{
+  "name": "gulp-file-process",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {},
+  "description": "",
+  "keywords": [
+    "file",
+    "files",
+    "filter",
+    "gulpplugin",
+    "ignore",
+    "match"
+  ],
+  "license": "MIT",
+  "author": "aliaksandr-pasynkau",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliaksandr-pasynkau/gulp-file-process.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aliaksandr-pasynkau/gulp-file-process/issues"
+  },
+  "homepage": "https://github.com/aliaksandr-pasynkau/gulp-file-process",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.9.0"
+  }
+}
